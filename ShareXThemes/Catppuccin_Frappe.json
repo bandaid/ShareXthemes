@@ -1,0 +1,21 @@
+{
+  "Name": "Catppuccin Frappe",
+  "BackgroundColor": "48, 52, 70",
+  "LightBackgroundColor": "65, 69, 89",
+  "DarkBackgroundColor": "41, 44, 60",
+  "TextColor": "198, 208, 245",
+  "BorderColor": "96, 102, 126",
+  "CheckerColor": "48, 52, 70",
+  "CheckerColor2": "65, 69, 89",
+  "LinkColor": "154, 181, 240",
+  "MenuHighlightColor": "65, 69, 89",
+  "MenuHighlightBorderColor": "152, 178, 239",
+  "MenuBorderColor": "96, 102, 126",
+  "MenuCheckBackgroundColor": "65, 69, 89",
+  "SeparatorLightColor": "89, 94, 117",
+  "SeparatorDarkColor": "44, 48, 65",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

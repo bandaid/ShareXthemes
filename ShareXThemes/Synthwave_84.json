@@ -1,0 +1,21 @@
+{
+  "Name": "Synthwave 84",
+  "BackgroundColor": "36, 27, 47",
+  "LightBackgroundColor": "52, 38, 74",
+  "DarkBackgroundColor": "25, 20, 38",
+  "TextColor": "246, 234, 250",
+  "BorderColor": "103, 93, 112",
+  "CheckerColor": "36, 27, 47",
+  "CheckerColor2": "52, 38, 74",
+  "LinkColor": "255, 126, 219",
+  "MenuHighlightColor": "52, 38, 74",
+  "MenuHighlightBorderColor": "253, 148, 225",
+  "MenuBorderColor": "103, 93, 112",
+  "MenuCheckBackgroundColor": "52, 38, 74",
+  "SeparatorLightColor": "87, 73, 106",
+  "SeparatorDarkColor": "30, 24, 42",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

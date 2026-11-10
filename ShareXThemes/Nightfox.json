@@ -1,0 +1,21 @@
+{
+  "Name": "Nightfox",
+  "BackgroundColor": "25, 35, 48",
+  "LightBackgroundColor": "41, 57, 79",
+  "DarkBackgroundColor": "19, 26, 36",
+  "TextColor": "205, 206, 207",
+  "BorderColor": "83, 90, 99",
+  "CheckerColor": "25, 35, 48",
+  "CheckerColor2": "41, 57, 79",
+  "LinkColor": "124, 163, 217",
+  "MenuHighlightColor": "41, 57, 79",
+  "MenuHighlightBorderColor": "131, 166, 213",
+  "MenuBorderColor": "83, 90, 99",
+  "MenuCheckBackgroundColor": "41, 57, 79",
+  "SeparatorLightColor": "71, 84, 102",
+  "SeparatorDarkColor": "22, 30, 42",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

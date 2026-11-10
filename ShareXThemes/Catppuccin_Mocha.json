@@ -1,0 +1,21 @@
+{
+  "Name": "Catppuccin Mocha",
+  "BackgroundColor": "30, 30, 46",
+  "LightBackgroundColor": "49, 50, 68",
+  "DarkBackgroundColor": "24, 24, 37",
+  "TextColor": "205, 214, 244",
+  "BorderColor": "86, 89, 109",
+  "CheckerColor": "30, 30, 46",
+  "CheckerColor2": "49, 50, 68",
+  "LinkColor": "137, 180, 250",
+  "MenuHighlightColor": "49, 50, 68",
+  "MenuHighlightBorderColor": "151, 187, 249",
+  "MenuBorderColor": "86, 89, 109",
+  "MenuCheckBackgroundColor": "49, 50, 68",
+  "SeparatorLightColor": "77, 80, 100",
+  "SeparatorDarkColor": "27, 27, 42",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Monokai Pro",
+  "BackgroundColor": "45, 42, 46",
+  "LightBackgroundColor": "64, 62, 65",
+  "DarkBackgroundColor": "33, 31, 34",
+  "TextColor": "252, 252, 250",
+  "BorderColor": "111, 109, 111",
+  "CheckerColor": "45, 42, 46",
+  "CheckerColor2": "64, 62, 65",
+  "LinkColor": "255, 216, 102",
+  "MenuHighlightColor": "64, 62, 65",
+  "MenuHighlightBorderColor": "254, 223, 132",
+  "MenuBorderColor": "111, 109, 111",
+  "MenuCheckBackgroundColor": "64, 62, 65",
+  "SeparatorLightColor": "98, 96, 98",
+  "SeparatorDarkColor": "39, 36, 40",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

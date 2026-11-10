@@ -1,0 +1,21 @@
+{
+  "Name": "Flexoki Dark",
+  "BackgroundColor": "16, 15, 15",
+  "LightBackgroundColor": "35, 34, 33",
+  "DarkBackgroundColor": "25, 24, 24",
+  "TextColor": "206, 205, 195",
+  "BorderColor": "77, 76, 73",
+  "CheckerColor": "16, 15, 15",
+  "CheckerColor2": "35, 34, 33",
+  "LinkColor": "255, 180, 84",
+  "MenuHighlightColor": "35, 34, 33",
+  "MenuHighlightBorderColor": "245, 185, 106",
+  "MenuBorderColor": "77, 76, 73",
+  "MenuCheckBackgroundColor": "35, 34, 33",
+  "SeparatorLightColor": "66, 65, 62",
+  "SeparatorDarkColor": "20, 20, 20",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

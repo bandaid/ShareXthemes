@@ -1,0 +1,21 @@
+{
+  "Name": "Duskfox",
+  "BackgroundColor": "46, 32, 62",
+  "LightBackgroundColor": "66, 43, 87",
+  "DarkBackgroundColor": "33, 23, 45",
+  "TextColor": "225, 210, 230",
+  "BorderColor": "103, 89, 116",
+  "CheckerColor": "46, 32, 62",
+  "CheckerColor2": "66, 43, 87",
+  "LinkColor": "246, 167, 193",
+  "MenuHighlightColor": "66, 43, 87",
+  "MenuHighlightBorderColor": "242, 176, 200",
+  "MenuBorderColor": "103, 89, 116",
+  "MenuCheckBackgroundColor": "66, 43, 87",
+  "SeparatorLightColor": "95, 73, 113",
+  "SeparatorDarkColor": "40, 28, 54",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

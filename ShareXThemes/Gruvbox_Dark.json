@@ -1,0 +1,21 @@
+{
+  "Name": "Gruvbox Dark",
+  "BackgroundColor": "40, 40, 40",
+  "LightBackgroundColor": "60, 56, 54",
+  "DarkBackgroundColor": "29, 32, 33",
+  "TextColor": "235, 219, 178",
+  "BorderColor": "102, 97, 84",
+  "CheckerColor": "40, 40, 40",
+  "CheckerColor2": "60, 56, 54",
+  "LinkColor": "250, 189, 47",
+  "MenuHighlightColor": "60, 56, 54",
+  "MenuHighlightBorderColor": "247, 195, 73",
+  "MenuBorderColor": "102, 97, 84",
+  "MenuCheckBackgroundColor": "60, 56, 54",
+  "SeparatorLightColor": "92, 85, 76",
+  "SeparatorDarkColor": "34, 36, 36",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}
