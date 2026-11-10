@@ -1,0 +1,21 @@
+{
+  "Name": "Oxocarbon Light",
+  "BackgroundColor": "255, 255, 255",
+  "LightBackgroundColor": "242, 244, 248",
+  "DarkBackgroundColor": "224, 224, 224",
+  "TextColor": "57, 57, 57",
+  "BorderColor": "192, 192, 192",
+  "CheckerColor": "255, 255, 255",
+  "CheckerColor2": "242, 244, 248",
+  "LinkColor": "13, 86, 222",
+  "MenuHighlightColor": "242, 244, 248",
+  "MenuHighlightBorderColor": "23, 90, 215",
+  "MenuBorderColor": "192, 192, 192",
+  "MenuCheckBackgroundColor": "242, 244, 248",
+  "SeparatorLightColor": "209, 210, 214",
+  "SeparatorDarkColor": "240, 240, 240",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

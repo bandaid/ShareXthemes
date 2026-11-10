@@ -1,0 +1,21 @@
+{
+  "Name": "Vesper",
+  "BackgroundColor": "16, 16, 16",
+  "LightBackgroundColor": "28, 28, 28",
+  "DarkBackgroundColor": "8, 8, 8",
+  "TextColor": "176, 176, 176",
+  "BorderColor": "67, 67, 67",
+  "CheckerColor": "16, 16, 16",
+  "CheckerColor2": "28, 28, 28",
+  "LinkColor": "255, 199, 153",
+  "MenuHighlightColor": "28, 28, 28",
+  "MenuHighlightBorderColor": "239, 194, 158",
+  "MenuBorderColor": "67, 67, 67",
+  "MenuCheckBackgroundColor": "28, 28, 28",
+  "SeparatorLightColor": "55, 55, 55",
+  "SeparatorDarkColor": "12, 12, 12",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

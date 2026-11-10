@@ -1,0 +1,21 @@
+{
+  "Name": "Sakura",
+  "BackgroundColor": "45, 34, 48",
+  "LightBackgroundColor": "66, 50, 70",
+  "DarkBackgroundColor": "33, 25, 35",
+  "TextColor": "251, 231, 241",
+  "BorderColor": "111, 97, 110",
+  "CheckerColor": "45, 34, 48",
+  "CheckerColor2": "66, 50, 70",
+  "LinkColor": "255, 170, 213",
+  "MenuHighlightColor": "66, 50, 70",
+  "MenuHighlightBorderColor": "254, 182, 219",
+  "MenuBorderColor": "111, 97, 110",
+  "MenuCheckBackgroundColor": "66, 50, 70",
+  "SeparatorLightColor": "99, 83, 101",
+  "SeparatorDarkColor": "39, 30, 42",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Solarized Light",
+  "BackgroundColor": "253, 246, 227",
+  "LightBackgroundColor": "238, 232, 213",
+  "DarkBackgroundColor": "228, 221, 200",
+  "TextColor": "64, 87, 94",
+  "BorderColor": "193, 195, 184",
+  "CheckerColor": "253, 246, 227",
+  "CheckerColor2": "238, 232, 213",
+  "LinkColor": "28, 101, 152",
+  "MenuHighlightColor": "238, 232, 213",
+  "MenuHighlightBorderColor": "43, 129, 187",
+  "MenuBorderColor": "193, 195, 184",
+  "MenuCheckBackgroundColor": "238, 232, 213",
+  "SeparatorLightColor": "207, 206, 192",
+  "SeparatorDarkColor": "240, 234, 214",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

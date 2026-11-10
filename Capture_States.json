@@ -1,0 +1,821 @@
+{
+  "Format": "ShareX capture-state color design reference",
+  "ImportCompatibility": "Not importable into ShareX Theme > Import; ShareXTheme JSON does not support independent capture-selection or active-recording colors",
+  "CaptureColorsApplyAutomatically": false,
+  "ScreenSelectionAndRecordingHaveDifferentColors": true,
+  "StrokeEdgeRenderingSupportedByThemeImport": false,
+  "SourceBase": "ShareXThemes_30.json",
+  "ThemeCount": 30,
+  "CaptureStates": [
+    {
+      "Name": "Black Gold",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#FFBD24",
+        "RGB": "255, 189, 36",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 164.0
+    },
+    {
+      "Name": "Carbonfox",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#24FFFC",
+        "RGB": "36, 255, 252",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 376.4
+    },
+    {
+      "Name": "Catppuccin Frappe",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2469FF",
+        "RGB": "36, 105, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 327.5
+    },
+    {
+      "Name": "Catppuccin Latte",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#246DFF",
+        "RGB": "36, 109, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 319.5
+    },
+    {
+      "Name": "Catppuccin Macchiato",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#246CFF",
+        "RGB": "36, 108, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 328.3
+    },
+    {
+      "Name": "Catppuccin Mocha",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2477FF",
+        "RGB": "36, 119, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 322.3
+    },
+    {
+      "Name": "Cyberpunk",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#FF24CE",
+        "RGB": "255, 36, 206",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 156.4
+    },
+    {
+      "Name": "Duskfox",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#21FFB6",
+        "RGB": "33, 255, 182",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 350.6
+    },
+    {
+      "Name": "Everforest Dark",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#A9FF24",
+        "RGB": "169, 255, 36",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 246.0
+    },
+    {
+      "Name": "Flexoki Dark",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2182FF",
+        "RGB": "33, 130, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 319.9
+    },
+    {
+      "Name": "Flexoki Light",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2489FF",
+        "RGB": "36, 137, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 328.0
+    },
+    {
+      "Name": "Gruvbox Dark",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#FFBD24",
+        "RGB": "255, 189, 36",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 164.6
+    },
+    {
+      "Name": "Gruvbox Light",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#21FFF7",
+        "RGB": "33, 255, 247",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 381.9
+    },
+    {
+      "Name": "Kanagawa Dragon",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#24B8FF",
+        "RGB": "36, 184, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 339.5
+    },
+    {
+      "Name": "Kanagawa Wave",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#246DFF",
+        "RGB": "36, 109, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1926",
+        "RGB": "255, 25, 38",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 319.5
+    },
+    {
+      "Name": "Matrix",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#24FF64",
+        "RGB": "36, 255, 100",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 321.5
+    },
+    {
+      "Name": "Monokai Pro",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#FFC724",
+        "RGB": "255, 199, 36",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 174.3
+    },
+    {
+      "Name": "Neon Dusk",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#24FFE6",
+        "RGB": "36, 255, 230",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 365.0
+    },
+    {
+      "Name": "Nightfox",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2480FF",
+        "RGB": "36, 128, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 333.9
+    },
+    {
+      "Name": "One Dark",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#249CFF",
+        "RGB": "36, 156, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 343.5
+    },
+    {
+      "Name": "Oxocarbon Dark",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2473FF",
+        "RGB": "36, 115, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 330.1
+    },
+    {
+      "Name": "Oxocarbon Light",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#2470FF",
+        "RGB": "36, 112, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 312.3
+    },
+    {
+      "Name": "Rose Pine",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#8724FF",
+        "RGB": "135, 36, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 237.8
+    },
+    {
+      "Name": "Rose Pine Moon",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#8724FF",
+        "RGB": "135, 36, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 259.7
+    },
+    {
+      "Name": "Sakura",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#21FF8F",
+        "RGB": "33, 255, 143",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 332.9
+    },
+    {
+      "Name": "Solarized Dark",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#24A4FF",
+        "RGB": "36, 164, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 346.7
+    },
+    {
+      "Name": "Solarized Light",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#24A5FF",
+        "RGB": "36, 165, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 331.0
+    },
+    {
+      "Name": "Synthwave 84",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#21FF5F",
+        "RGB": "33, 255, 95",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 322.8
+    },
+    {
+      "Name": "Tokyo Night",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#246AFF",
+        "RGB": "36, 106, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1919",
+        "RGB": "255, 25, 25",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 327.8
+    },
+    {
+      "Name": "Vesper",
+      "SelectionTool": {
+        "AppliesTo": [
+          "Screenshot",
+          "VideoRegionSelection",
+          "GIFRegionSelection"
+        ],
+        "Color": "#219BFF",
+        "RGB": "33, 155, 255",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "ActiveRecording": {
+        "AppliesTo": [
+          "VideoRecording",
+          "GIFRecording"
+        ],
+        "Color": "#FF1932",
+        "RGB": "255, 25, 50",
+        "RecommendedPrimaryWidthPx": 3,
+        "RecommendedOuterDarkEdge": "#000000",
+        "RecommendedInnerLightEdge": "#FFFFFF"
+      },
+      "RGBDistance": 329.0
+    }
+  ]
+}

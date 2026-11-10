@@ -1,0 +1,21 @@
+{
+  "Name": "Rose Pine Moon",
+  "BackgroundColor": "35, 33, 54",
+  "LightBackgroundColor": "57, 53, 82",
+  "DarkBackgroundColor": "27, 25, 43",
+  "TextColor": "224, 222, 244",
+  "BorderColor": "95, 93, 115",
+  "CheckerColor": "35, 33, 54",
+  "CheckerColor2": "57, 53, 82",
+  "LinkColor": "196, 167, 231",
+  "MenuHighlightColor": "57, 53, 82",
+  "MenuHighlightBorderColor": "202, 178, 234",
+  "MenuBorderColor": "95, 93, 115",
+  "MenuCheckBackgroundColor": "57, 53, 82",
+  "SeparatorLightColor": "87, 83, 111",
+  "SeparatorDarkColor": "31, 29, 48",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}

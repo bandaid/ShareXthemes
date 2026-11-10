@@ -1,0 +1,21 @@
+{
+  "Name": "Kanagawa Dragon",
+  "BackgroundColor": "24, 22, 22",
+  "LightBackgroundColor": "40, 39, 39",
+  "DarkBackgroundColor": "13, 12, 12",
+  "TextColor": "197, 201, 197",
+  "BorderColor": "79, 79, 78",
+  "CheckerColor": "24, 22, 22",
+  "CheckerColor2": "40, 39, 39",
+  "LinkColor": "139, 164, 176",
+  "MenuHighlightColor": "40, 39, 39",
+  "MenuHighlightBorderColor": "151, 171, 180",
+  "MenuBorderColor": "79, 79, 78",
+  "MenuCheckBackgroundColor": "40, 39, 39",
+  "SeparatorLightColor": "68, 68, 67",
+  "SeparatorDarkColor": "18, 17, 17",
+  "CheckerSize": 15,
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100
+}
