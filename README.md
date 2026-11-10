@@ -121,4 +121,3 @@ This is an independent ShareX theme collection. Theme names refer to their respe
 
 **ShareX official sources:** [ShareX project](https://github.com/ShareX/ShareX) · [ShareX theme model](https://github.com/ShareX/ShareX/blob/develop/ShareX.HelpersLib/ShareXTheme.cs) · [ShareX changelog](https://getsharex.com/changelog).
 
-**Licensing:** No reuse license is asserted by this README. Verify rights to any third-party names or palette materials, and choose an appropriate repository license before redistribution.
