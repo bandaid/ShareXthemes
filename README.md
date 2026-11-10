@@ -1,0 +1,2 @@
+# ShareXthemes
+ShareX Themes (Classic)
